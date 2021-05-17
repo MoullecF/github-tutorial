@@ -1,4 +1,5 @@
 These are the best animals in the world:
 * Chinpstrap penguins
 * Rabbit
-* Snake
+* Cat
+* Dog
