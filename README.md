@@ -5,7 +5,7 @@ This is all about this repo.
 
 	* best-animals.txt - the best animals
 	* random.txt
-[GitHub-flavoured MarkDown] (https:https://github.com/)
+[GitHub-flavoured MarkDown](https:https://github.com/)
 
 Bits of code `x = 3 * 5`
 
