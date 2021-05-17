@@ -1,7 +1,7 @@
 These are the best animals in the world:
 * Chinpstrap penguins
-* Rabbit
-* Snake
+* Rhinos
+* Snake_cobra
 * Spoonbill
 * Emperor penguins
 * frog
