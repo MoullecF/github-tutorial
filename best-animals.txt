@@ -4,4 +4,5 @@ These are the best animals in the world:
 * Snake
 * Spoonbill
 * Emperor penguins
+* frog
 can't think of any others
